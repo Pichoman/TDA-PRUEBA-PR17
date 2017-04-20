@@ -35,7 +35,7 @@ if (opc == 1)
 {
 	mayusculas(cad1,cad2);
 	strcpy(cad2,cad1);
-	printf("%s %s \n",cad1,cad2);
+	printf("%s, Mayusculas: %s \n",cad1,cad2);
 }
 else
 {
